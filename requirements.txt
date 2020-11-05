@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+pickle-mixin
+beautifulsoup4
+Flask
+jupyter
+pytest

@@ -1,2 +1,2 @@
-# Stutern_Projects
-Contains tasks from stutern training
+# Stutern-Projects
+This repository contains all projects and tasks from stutern graduate accelerator
