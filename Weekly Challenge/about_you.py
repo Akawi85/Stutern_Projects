@@ -75,7 +75,7 @@ def main():
         age_group = 'Child'
     elif args.age <= 17:
         age_group = 'Teen'
-    elif args.age >= 18:
+    elif (args.age >= 18) & (args.age <= 64):
         age_group = 'Adult'
     elif args.age >= 65:
         age_group = 'Elder'
