@@ -1,6 +1,6 @@
 # Code Repository for Web Scraping Course
 
-This repository contains Jupyter Notebooks with code examples relating to the Real Python video course on Building a Web Scraper with `requests` and Beautiful Soup.
+This repository contains Jupyter Notebooks with code examples relating to the Real Python video course on Building a Web Scraper with `requests` and `Beautiful Soup`.
 
 The notebooks 01-03 represent the **web scraping pipeline** discussed in the course:
 
