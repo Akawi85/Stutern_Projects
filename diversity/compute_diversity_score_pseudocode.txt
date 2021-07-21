@@ -1,0 +1,25 @@
+This pseudocode uses simpson's diversity score--> https://sites.google.com/site/geographyfais/fieldwork/6-data-analysis/statistical-tools/diversity/diversity-index
+
+This program will compute a company's diversity score given the number of staff that falls in each ethnic group within the company:
+
+
+BEGIN
+{
+SET b as EmptySequenceVariable
+SET N to total number of staff in the company
+
+FOR each ethnic group across all ethnic groups
+
+	COMPUTE n as total number of staff in each ethnic group
+	COMPUTE d as n minus one
+	COMPUTE e as n multiplied by d
+	
+	STORE e in b 
+	
+END FOR
+	
+COMPUTE diversity score as 1 minus (sum of b divide by N multiplied N minus 1)
+}
+END 
+
+PS: Higher score signifies a more diverse company while lower score signifies a less diverse company 
